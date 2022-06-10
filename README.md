@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdulrhman</h1>
 <h3 align="center">A passionate IT Specialist from Saudi Arabia</h3>
 
-<p align="left"> <a href="https://twitter.com/ixwo_" target="blank"><img src="https://img.shields.io/twitter/follow/ixwo_?logo=twitter&style=for-the-badge" alt="ixwo_" /></a> </p>
-
 - 🔭 I’m currently working on **multiple certifications**
 
 - 🌱 I’m currently learning **Comptia Security+**
