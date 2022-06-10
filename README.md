@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at **my github and soon at my website**
 
-- 💬 Ask me about **Web development, Java, SQL, Network and.. Life?**
+- 💬 Ask me about **Web development, Java, UI/UX, Network and.. Life?**
 
 - 📫 How to reach me **abdulrhmanbawzir@gmail.com**
 
