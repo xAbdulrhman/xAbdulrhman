@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at **my github and soon at my website**
 
-- 💬 Ask me about **Web development, SQL, Network, Java and.. Life?**
+- 💬 Ask me about **Web development, Java, SQL, Network and.. Life?**
 
 - 📫 How to reach me **abdulrhmanbawzir@gmail.com**
 
@@ -19,6 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/ixwo_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ixwo_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abdulrhman mohammed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulrhman mohammed" height="30" width="40" /></a>
+<a href="https://instagram.com/z99v_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="z99v_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
