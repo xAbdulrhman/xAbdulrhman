@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Cybersecurity path in general**
 
-- 👨‍💻 All of my projects are available at **my github as well as my website https://a-mb.me **
+- 👨‍💻 All of my projects are available at **my github as well as my website https://a-mb.me**
 
 - 💬 Ask me about **Web development, Java, UI/UX, Network and.. Life?**
 
