@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Abdulrhman</h1>
-<h3 align="center">A passionate IT Specialist</h3>
+<h3 align="center">A passionate IT Specialist & Developer</h3>
 
-- 🔭 I’m currently working on **multiple certifications**
+- 🔭 I’m currently working on **A business Copmany beside couple certifications**
 
-- 🌱 I’m currently learning **Comptia Security+**
+- 🌱 I’m currently learning **Database Adminatration**
 
-- 🤝 I’m looking for help with **Cybersecurity path in general**
+- 🤝 I appreciate any help with **Database path in general**
 
 - 👨‍💻 All of my projects are available at **my github as well as my website https://a-mb.me**
 
-- 💬 Ask me about **Web development, Java, UI/UX, Network and.. Life?**
+- 💬 Ask me about **Web/Software development, Programming, Tech and.. Life?**
 
 - 📫 How to reach me **abdulrhmanbawzir@gmail.com**
 
