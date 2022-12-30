@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **abdulrhmanbawzir@gmail.com**
 
-- ⚡ Fun fact **I love my voice:3**
+- ⚡ Fun fact **I love my voice :>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
