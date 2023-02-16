@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **A business Copmany beside couple certifications**
 
-- 🌱 I’m currently learning **Database Adminatration**
+- 🌱 I’m currently learning **Cyber-Security**
 
-- 🤝 I appreciate any help with **Database path in general**
+- 🤝 I appreciate any help with **CyberSecurity path in general**
 
 - 👨‍💻 All of my projects are available at **my github as well as my website https://a-mb.me**
 
