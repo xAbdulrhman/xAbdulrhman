@@ -7,7 +7,7 @@
 
 - 🤝 I appreciate any help with **CyberSecurity path in general**
 
-- 👨‍💻 All of my projects are available at **my github as well as my website https://a-mb.me**
+- 👨‍💻 All of my projects are available at **my github as well as my website https://a-mb.tech**
 
 - 💬 Ask me about **Web/Software development, Programming, Tech and.. Life?**
 
