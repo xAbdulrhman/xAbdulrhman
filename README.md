@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Abdulrhman</h1>
-<h3 align="center">A passionate Cyber Officer & Data Eng.</h3>
+<h3 align="center">Master Data Analyst & future Cybersecurity Analyst </h3>
 
-- 🔭 I’m currently working on **A business Copmany beside couple certifications**
+- 🔭 I’m currently working at **Al Wefag Trading & Manufacturing Co. Ltd**
 
 - 🌱 I’m currently learning **Cyber-Security**
 
-- 🤝 I appreciate any help with **CyberSecurity path in general**
+- 🤝 I appreciate any help with **CyberSecurity tools and path in general**
 
 - 👨‍💻 All of my projects are available at **my github as well as my website https://a-mb.tech**
 
-- 💬 Ask me about **Web/Software development, Programming, Tech and.. Life?**
+- 💬 Ask me about **Security, Web/Software development, Programming, Tech and.. Life?**
 
 - 📫 How to reach me **abdulrhmanbawzir@gmail.com**
 
