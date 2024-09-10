@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working at **Al Wefag Trading & Manufacturing Co. Ltd**
 
-- 🌱 I’m currently learning **Cyber-Security**
+- 🌱 I’m currently learning **Cyber-Security & DevOps**
 
-- 🤝 I appreciate any help with **CyberSecurity tools and path in general**
+- 🤝 I appreciate any help with **CyberSecurity & DevOps tools**
 
-- 👨‍💻 All of my projects are available at **my github as well as my website https://a-mb.tech**
+- 👨‍💻 All of my projects are available at **my github**
 
 - 💬 Ask me about **Security, Web/Software development, Programming, Tech and.. Life?**
 
