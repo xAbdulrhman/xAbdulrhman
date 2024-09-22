@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abdulrhman</h1>
-<h3 align="center">Master Data Analyst & future Cyber Engineer </h3>
+<h3 align="center">Master Data Engineer & future Cyber Officer </h3>
 
 - 🔭 I’m currently working at **Al Wefag Trading & Manufacturing Co. Ltd**
 
-- 🌱 I’m currently learning **Cyber-Security & DevOps**
+- 🌱 I’m currently learning **CyberSecurity & DevOps**
 
 - 🤝 I appreciate any help with **CyberSecurity & DevOps tools**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **abdulrhmanbawzir@gmail.com**
 
-- ⚡ Fun fact **I love my voice :>**
+- ⚡ Personal fact **I love coffee more than tech :>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
